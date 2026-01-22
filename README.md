@@ -2,6 +2,6 @@
 
 Nathan Johnson
 Brandon Richards
-Francis Eyamba
+Francis Edem
 Samuel Ruiz
 Njato Harizo Ragodonandrasana
