@@ -1,15 +1,17 @@
-// FONTS
-// METADATA at some point
+import "./globals.css";
+import Navigation from "@/components/Navigation";
 
-import { SideNav } from 
-
-
-  
-export default function Layout() {
-  <div>
-    <SideNav /> 
-  </div>
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>
+        <Navigation />
+        {children}
+      </body>
+    </html>
+  );
 }
-
-
-
