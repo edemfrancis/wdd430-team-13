@@ -41,18 +41,20 @@ ul {
 }
 
 /* ****************************** */
-/* HERO CONTAINER */
+/* Navigation */
 /* ****************************** */
 .navigation {
   height: 100%;
-    width: 160px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    padding: 20px;
-    border-right: 1px solid var(--terracotta);
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding: 20px;
+  border-right: 1px solid var(--terracotta);
+  box-shadow: 3px 10px 10px black;
+
 }
 
 
@@ -91,7 +93,7 @@ ul {
 
 .hero-image {
   max-width: 100%;
-  max-height: auto;
+  max-height: 100%;
 }
 
 /* ****************************** */
