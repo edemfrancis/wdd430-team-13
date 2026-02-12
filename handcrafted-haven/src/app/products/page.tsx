@@ -1,6 +1,8 @@
 import "./product.css";
 import ProductCard from "@/components/ProductCard";
 import { getUiProducts } from "../../database/products";
+import ShoppingCart from "@/components/ShoppingCart";
+
 
 export default async function ProductsPage() {
   const products = await getUiProducts();
@@ -15,6 +17,7 @@ export default async function ProductsPage() {
         <p className="page__subtitle">
           Browse handcrafted items from our artisans.
         </p>
+        <ShoppingCart />
       </header>
 
       <section className="products">
