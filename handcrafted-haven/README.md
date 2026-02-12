@@ -4,45 +4,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 
-TEAM DISCUSSION - Brandon's items
+TEAM DISCUSSSION - BRANDON ITEMS
 
-LANDING PAGE:
-1. Landing Page changes can be made.
-- Basic styling improvements still?
+Compeleted
+1) View Cart
 
-2. Color choices ok? Can change
-
-3. Still need to add mobile CSS responsiveness
-- Navigation --> Hamburger Menu
-- Footer --> display 1 column grid instead
-
-
-HERO IMAGE
-- Several options for images in public folder
-
-
-LOGO
-- I created / selected one for the time being. We can change if we want to
-- resizing of page messes with hero image.
-
-
-HOME PAGE title
-- Banner at top? Hover over Hero?
-- Need to change background to cream
-
-
-ISSUES
-- CSS centering on Github repo link at bottom
-- 
-
-
-PLANNING FUTURE TASKS
-
-
-
-Review Github branches and main? Merge conflicts? - Brandon is not a profesional.
-
-
+To Do
+1) Checkout
+2) Fix live website deployment
+3) 
 
 
 
